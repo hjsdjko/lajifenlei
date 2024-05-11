@@ -1,0 +1,286 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "意见反馈展示"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "意见反馈添加"
+		}
+	},{
+		"path": "pages/chat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "意见反馈详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/huanbaoshipin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保视频展示"
+		}
+	},{
+		"path": "pages/huanbaoshipin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保视频添加"
+		}
+	},{
+		"path": "pages/huanbaoshipin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保视频详情"
+		}
+	}
+	,{
+		"path": "pages/huanbaozhishi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保知识展示"
+		}
+	},{
+		"path": "pages/huanbaozhishi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保知识添加"
+		}
+	},{
+		"path": "pages/huanbaozhishi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保知识详情"
+		}
+	}
+	,{
+		"path": "pages/lajixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "垃圾信息展示"
+		}
+	},{
+		"path": "pages/lajixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "垃圾信息添加"
+		}
+	},{
+		"path": "pages/lajixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "垃圾信息详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保新闻展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保新闻添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "环保新闻详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+	,{
+		"path": "pages/exampaper/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "知识问答试卷列表"
+		}
+	},{
+		"path": "pages/exampaper/exam",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},{
+		"path": "pages/examrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "测试记录"
+		}
+	},{
+		"path": "pages/examrecord/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "测试记录"
+		}
+	},{
+		"path": "pages/examrewrongquestion/list",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "错题本"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#6a4826",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "垃圾分类小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#543622",
+		"borderStyle": "black",
+		"backgroundColor": "#6a4826",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/huanbaoshipin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "环保视频"
+			}
+			,{
+				"pagePath": "pages/lajixinxi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "垃圾信息"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛信息"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
